@@ -1,0 +1,5 @@
+. # install yt_astro_analysis
+sphinx==7.2.6
+sphinx-bootstrap-theme==0.8.1
+jinja2==3.1.2
+markupsafe==2.1.3
